@@ -7,4 +7,6 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "video_banner_lib"
+include ':lib_video'
+include ':lib_banner'
 include ':app'
